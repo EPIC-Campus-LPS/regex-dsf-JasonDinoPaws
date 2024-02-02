@@ -49,3 +49,5 @@ mae_noble@hr.yahoo.com
 brogan_fitzpatrick@hr.yahoo.com
 haris_clayton@hr.yahoo.com
 
+jane_doe@sales.yahoo.com
+jake_doe@sales.yahoo.com
